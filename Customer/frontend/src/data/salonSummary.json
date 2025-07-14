@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "..img/picSalon1.jpg"
+  },
+  {
+    "id": 2,
+    "image": "/src/img/salon2.jpg"
+  },
+  {
+    "id": 3,
+    "image": "/src/img/salon3.jpg"
+  },
+  {
+    "id": 4,
+    "image": "/src/img/salon4.jpg"
+  },
+  {
+    "id": 5,
+    "image": "/src/img/salon5.jpg"
+  },
+  {
+    "id": 6,
+    "image": "/src/img/salon6.jpg"
+  }
+]

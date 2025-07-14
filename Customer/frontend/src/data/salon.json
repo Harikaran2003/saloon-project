@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Brother's Salon",
+    "location": "Santacruz",
+    "description": "A modern salon offering great services.",
+    "coords": [19.076, 72.85],
+    "rating": 4.5,
+    "photoUrl": "./img/picSalon1.jpg",
+    "services": [
+      { "name": "Haircut", "price": 100 },
+      { "name": "Beard Trim", "price": 50 },
+      { "name": "Haircut + Beard Trim", "price": 150 }
+    ]
+  },
+  {
+    "name": "Elegance Salon Unisex",
+    "location": "Santacruz",
+    "description": "A trendy salon with professional stylists.",
+    "coords": [19.078, 72.852],
+    "rating": 4.2,
+    "photoUrl": "https://via.placeholder.com/300x200.png?text=Salon+B",
+    "services": [
+      { "name": "Haircut", "price": 120 },
+      { "name": "Beard Trim", "price": 60 },
+      { "name": "Haircut + Beard Trim", "price": 170 }
+    ]
+  },
+  {
+    "name": "Lay Hair & Beauty Salon",
+    "location": "Santacruz",
+    "description": "A budget-friendly salon with great service.",
+    "coords": [19.074, 72.848],
+    "rating": 3.8,
+    "photoUrl": "https://via.placeholder.com/300x200.png?text=Salon+C",
+    "services": [
+      { "name": "Haircut", "price": 80 },
+      { "name": "Beard Trim", "price": 40 },
+      { "name": "Haircut + Beard Trim", "price": 130 }
+    ]
+  },
+  {
+    "name": "Salon D",
+    "location": "Vile Parle",
+    "description": "A premium salon with exceptional stylists.",
+    "coords": [19.09, 72.835],
+    "rating": 4.7,
+    "photoUrl": "https://via.placeholder.com/300x200.png?text=Salon+D",
+    "services": [
+      { "name": "Haircut", "price": 150 },
+      { "name": "Beard Trim", "price": 70 },
+      { "name": "Haircut + Beard Trim", "price": 200 }
+    ]
+  },
+  {
+    "name": "Salon E",
+    "location": "Andheri",
+    "description": "A casual and affordable salon.",
+    "coords": [19.1, 72.83],
+    "rating": 4.0,
+    "photoUrl": "https://via.placeholder.com/300x200.png?text=Salon+E",
+    "services": [
+      { "name": "Haircut", "price": 90 },
+      { "name": "Beard Trim", "price": 45 },
+      { "name": "Haircut + Beard Trim", "price": 135 }
+    ]
+  },
+  {
+    "name": "Salon F",
+    "location": "Andheri",
+    "description": "A top-rated salon with the latest trends.",
+    "coords": [19.105, 72.825],
+    "rating": 4.4,
+    "photoUrl": "https://via.placeholder.com/300x200.png?text=Salon+F",
+    "services": [
+      { "name": "Haircut", "price": 110 },
+      { "name": "Beard Trim", "price": 55 },
+      { "name": "Haircut + Beard Trim", "price": 160 }
+    ]
+  }
+]
